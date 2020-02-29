@@ -8,8 +8,8 @@ on:
     paths:
       - '.config.n1.docker'
       - 'n1/**'
-  #watch:
-  #  types: [started]
+   watch:
+     types: [started]
 
     
 jobs:
